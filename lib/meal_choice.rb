@@ -1,6 +1,8 @@
 
 #Define method call "meal_choice" that has three parameters: two required veggies and one optional meat
+
 def meal_choice(veg1, veg2, protein)
+  #Make "protein" optional, with default set to "meat"
   if protein = nil
     puts "meat"
 
