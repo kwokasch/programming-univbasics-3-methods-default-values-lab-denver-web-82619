@@ -1,4 +1,5 @@
 
+#Define method call "meal_choice" that 
 def meal_choice(veg1, veg2, protein)
   if protein = nil
     puts "meat"
