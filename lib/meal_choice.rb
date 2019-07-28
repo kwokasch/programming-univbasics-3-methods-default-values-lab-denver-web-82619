@@ -1,5 +1,5 @@
 
-#Define method call "meal_choice" that 
+#Define method call "meal_choice" that has three parameters: two required veggies and one optional meat
 def meal_choice(veg1, veg2, protein)
   if protein = nil
     puts "meat"
